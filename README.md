@@ -21,4 +21,4 @@ A React web app where users input daily activities (transport, food, energy) and
 - Energy factor: 1.2 kg CO₂/kWh
 
 ## Deployed Link
-https://codesandbox.io/p/sandbox/hsjyrt
+ https://hsjyrt.csb.app/
