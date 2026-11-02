@@ -1,4 +1,7 @@
 # 🌱 Carbon Footprint Platform
+## Build note
+Built with AI-assisted development (live-coded with AI tools).
+My role: solo 
 
 > **Interactive Daily Greenhouse Gas (GHG) Emissions Calculator & Reduction Advisor**
 
